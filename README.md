@@ -48,8 +48,8 @@ Me apasiona construir soluciones digitales que automatizan procesos y mejoran la
 ### 📈 Mis estadísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xilena-agamez&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xilena-agamez&layout=compact&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=XilenaAgamez&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XilenaAgamez&layout=compact&theme=radical" height="160px"/>
 </p>
 
 ---
