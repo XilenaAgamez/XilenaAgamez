@@ -56,9 +56,9 @@ Me apasiona construir soluciones digitales que automatizan procesos y mejoran la
 
 ### 📫 ¿Dónde encontrarme?
 
-- 🌐 [Mi portafolio](https://miportafolio.com) *(agrega tu enlace real)*
-- 💼 [LinkedIn](https://linkedin.com/in/xilena-agamez) *(agrega tu perfil)*
-- 📧 xilena.dev@email.com *(puedes cambiar este correo)*
+- 🌐 [Mi portafolio]([https://miportafolio.com](https://68239c88eb206a34c11c5786--portafolioprofesionalxilenaagamez.netlify.app/ )) *(agrega tu enlace real)*
+- 💼 [LinkedIn]([https://linkedin.com/in/xilena-agamez](https://www.linkedin.com/in/xilena-agamez-829650244/)) *(agrega tu perfil)*
+- 📧 xileagamez0728@gmail.com *(puedes cambiar este correo)*
 
 ---
 
