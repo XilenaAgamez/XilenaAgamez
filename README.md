@@ -24,7 +24,7 @@ Me apasiona construir soluciones digitales que automatizan procesos y mejoran la
 ### 🚀 Proyectos destacados
 
 - 🗂️ [Gestor documental](https://github.com/xilena-agamez/gestor-documental) – Sistema de gestión interna para documentos.
-- ⚽ [Xporties](https://github.com/xilena-agamez/xporties) – Portal deportivo con noticias, torneos y rankings.
+- ⚽ [TICXPORTY](https://github.com/xilena-agamez/xporties) – Portal deportivo con gestion de entrenamientos, inscripciones y noticias, .
 - 🧑‍💼 [TH (Talento Humano)](https://github.com/xilena-agamez/sistema-talento) – Plataforma para el manejo de personal: selección, contratación, nómina y más.
 
 ---
